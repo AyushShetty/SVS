@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SVS</string>
+    <string name="enter_symptoms">Enter Symptoms</string>
+    <string name="button1">Submit Symptoms</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="textview">Predicted Disease:-</string>
+    <string name="textview2">Accuracy:-</string>
+    <string name="textview3">Possible Medication:-</string>
+    <string name="calc">Calculating..</string>
+    <string name="button2">See Nearby Solutions</string>
+</resources>
